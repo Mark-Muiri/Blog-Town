@@ -21,3 +21,4 @@ def get_quote():
             quote_results = Quote(author, quote)
     
     return quote_results
+
