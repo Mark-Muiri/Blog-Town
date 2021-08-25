@@ -1,5 +1,5 @@
 import unittest
-from app.models import Blog,User,Comment
+from .app.models import Blog,User,Comment
 
 class TestPitch(unittest.TestCase):
     """
