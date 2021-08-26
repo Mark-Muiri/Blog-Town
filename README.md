@@ -1,5 +1,5 @@
 # Blog-Town
-#### This is an online platform where a user can write his own blogs, read blogs from other users, comment on blogs as well as maintain their own profiles by deleting personal blog articles or deleting comments on their own blogs., 2020
+#### This is an online platform where a user can write his own blogs, read blogs from other users, comment on blogs as well as maintain their own profiles by deleting personal blog articles or deleting comments on their own blogs., 2021
 #### By **Mark Muiri**
 ## Description
 This is an online platform where a user can write his own blogs, read blogs from other users, comment on blogs as well as maintain their own profiles by deleting personal blog articles or deleting comments on their own blogs.
