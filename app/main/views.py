@@ -19,6 +19,7 @@ def index():
     return render_template('index.html', title=title, quote=quote, blogs = blogs)
 
 @main.route('/user/<uname>')
+@login_required
 def profile(uname):
     user = User.query.filter_by(username = uname).first()
     blogs = Blog.query.filter_by(user_id = user.id).order_by(Blog.posted.desc())
